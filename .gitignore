@@ -1,0 +1,18 @@
+# Environment files
+.env
+.env.*
+**/.env
+**/.env.*
+
+# Dependencies
+**/node_modules/
+
+# Build artifacts & caches
+**/artifacts/
+**/cache/
+**/.hardhat/
+**/types/
+
+# Misc
+.DS_Store
+*.log
